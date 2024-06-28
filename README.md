@@ -33,4 +33,4 @@ Analyze the survival distribution of different parameters using visualization to
 -  `KNeighborsClassifier` : Constructs a nearest Neighbors class from an array representing the data set
 
 ## Conclusion
-This project offers insights into the survival rate of various categories. Using `KNeighborsClassifier` we get a score of 80.47% with three nearest neighbors.
+This project offers insights into the survival rate of various categories. Using `KNeighborsClassifier` we get a score of 80.47% with three nearest neighbors of the trained data.
